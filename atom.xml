@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title type="text">The Blog of M0ORI: Interesting Radio Observations</title><id>/atom.xml</id><updated>2024-12-26 21:17:00 UTC</updated><link href="https://blog.m0ori.com"/><entry><id>updated-blogs</id><title type="text">Updated Websites and Blogs!</title><updated>2024-12-26 21:17:00 UTC</updated><author><name>Dan Dart</name></author><content type="html">&lt;p&gt;Hi! It's been a while!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title type="text">The Blog of M0ORI: Interesting HamRadio Observations</title><id>/atom.xml</id><updated>2024-12-26 21:17:00 UTC</updated><link href="https://blog.m0ori.com"/><entry><id>updated-blogs</id><title type="text">Updated Websites and Blogs!</title><updated>2024-12-26 21:17:00 UTC</updated><author><name>Ember Dart</name></author><content type="html">&lt;p&gt;Hi! It's been a while!&lt;/p&gt;
 &lt;p&gt;I've just released a major new build for all my websites and blogs. It features, amongst other things:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fixes for RSS feed readers&lt;/li&gt;
@@ -19,19 +19,19 @@
 &lt;p&gt;This will also allow me to more frequently write blog posts, so look forward to what's next!&lt;/p&gt;
 &lt;p&gt;Here is the current list of websites that have now been updated:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://dandart.co.uk"&gt;Personal website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://emberdart.co.uk"&gt;Personal website&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://jolharg.com"&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://m0ori.com"&gt;Radio ham website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;And blogs affected:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://blog.dandart.co.uk"&gt;Personal blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.emberdart.co.uk"&gt;Personal blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://blog.jolharg.com"&gt;Code blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://blog.m0ori.com"&gt;Radio blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://madhackerreviews.com"&gt;Reviews website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you would like to use this package for your own website, I'd be happy to help. And if you notice anything wrong with it, please let me know.&lt;/p&gt;
-&lt;p&gt;Ta-ta, and happy Y'all-Tired!&lt;/p&gt;</content><link href="https://blog.m0ori.com/post/2024/12/updated-blogs"/></entry><entry><id>new-radio-blog-incoming</id><title type="text">New radio blog incoming!</title><updated>2024-11-01 21:45:03 UTC</updated><author><name>Dan Dart</name></author><content type="html">&lt;p&gt;Hello all!&lt;/p&gt;
+&lt;p&gt;Ta-ta, and happy Y'all-Tired!&lt;/p&gt;</content><link href="https://blog.m0ori.com/post/2024/12/updated-blogs"/></entry><entry><id>new-radio-blog-incoming</id><title type="text">New radio blog incoming!</title><updated>2024-11-01 21:45:03 UTC</updated><author><name>Ember Dart</name></author><content type="html">&lt;p&gt;Hello all!&lt;/p&gt;
 &lt;p&gt;Coming up on this site shall be radio-based thoughts, interesting observation logs and things like schedules, communications and networks I set up.&lt;/p&gt;
 &lt;p&gt;Be sure to subscribe on your preferred RSS reader if you are a ham radio enthusiast or are otherwise tangentially interested, to catch up with plans and news.&lt;/p&gt;
 &lt;p&gt;Ta-ta and 73 de M0ORI&lt;/p&gt;</content><link href="https://blog.m0ori.com/post/2024/11/new-radio-blog-incoming"/></entry></feed>
